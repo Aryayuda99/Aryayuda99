@@ -28,4 +28,10 @@
 ![](https://streak-stats.demolab.com/?user=Aryayuda99&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Aryayuda99&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
+<h2>🐍 Feed The Snake With Commits</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Aryayuda99/Aryayuda99/output/snake-dark.svg" alt="snake animation" />
+</p>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
