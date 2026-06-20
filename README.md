@@ -1,5 +1,5 @@
 <div align="center">
-## Hi, I'm Arya Yuda👋
+<h1>Hi, I'm Arya Yuda👋</h1>
 </div>
 
 ## 🌐 Socials:
