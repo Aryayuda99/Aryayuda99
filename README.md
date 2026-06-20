@@ -4,7 +4,7 @@
   <h3>Developer & Student</h3>
 </div>
 
-## 🌐 Socials:
+## 🌐 Connect With Me:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aryayudadharma@gmail.com) 
 
 # 💻 Tech Stack:
