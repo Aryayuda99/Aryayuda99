@@ -1,8 +1,9 @@
-<img width="1062" height="271" alt="ARYA YUDA2" src="https://github.com/user-attachments/assets/0facfef2-8d14-4f97-b222-f709f8162383" />
+<img width="1062" height="271" alt="Banner GitHub (Student)" src="https://github.com/user-attachments/assets/230b7720-4657-41b2-904a-80930ab96ed1" />
+
 
 <div align="center">
   <h1>Hi👋, I'm Arya Yuda</h1>
-  <h3>Developer & Student</h3>
+  <h3>Student</h3>
 </div>
 
 ## 🌐 Connect With Me:
