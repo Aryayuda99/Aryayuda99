@@ -8,6 +8,7 @@
 
 ## 🌐 Connect With Me:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aryayudadharma@gmail.com) 
+[![Discord](https://img.shields.io/badge/Discord-sno0sze-5865F2?logo=discord&logoColor=white)](https://discord.com)
 
 # 💻 Tech Stack:
 <img width="45" height="45" alt="image"
@@ -28,8 +29,7 @@
 ![](https://streak-stats.demolab.com/?user=Aryayuda99&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Aryayuda99&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<h2>🐍 Feed The Snake With Commits</h2>
-
+# 🐍 Feed The Snake With Commits
 <p align="center">
   <img src="https://raw.githubusercontent.com/Aryayuda99/Aryayuda99/output/snake-dark.svg" alt="snake animation" />
 </p>
