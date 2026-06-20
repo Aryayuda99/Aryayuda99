@@ -1,7 +1,6 @@
 <div align="center">
-
 ## Hi, I'm Arya Yuda👋
-
+</div>
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aryayudadharma@gmail.com) 
