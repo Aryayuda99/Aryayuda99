@@ -8,7 +8,7 @@
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aryayudadharma@gmail.com) 
 
 # 💻 Tech Stack:
-<img width="12" height="12" alt="image" src="https://github.com/user-attachments/assets/fcb2ed0b-0777-45a9-8a48-48f25d2fa4d0" />
+<img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/fcb2ed0b-0777-45a9-8a48-48f25d2fa4d0" />
 
 
 # 📊 GitHub Stats:
