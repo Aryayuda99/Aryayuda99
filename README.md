@@ -1,8 +1,8 @@
+
 <div align="center">
   <h1>Hi👋, I'm Arya Yuda</h1>
-  <h3>Student</h3>
+  <h3>Developer & Student</h3>
 </div>
-
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aryayudadharma@gmail.com) 
