@@ -1,3 +1,4 @@
+<img width="1000" height="400" alt="ARYA YUDA" src="https://github.com/user-attachments/assets/d34cf639-da86-447c-a4e6-9e67251b0a4e" />
 
 <div align="center">
   <h1>Hi👋, I'm Arya Yuda</h1>
