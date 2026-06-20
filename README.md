@@ -1,8 +1,6 @@
 <div align="center">
   <h1>Hi👋, I'm Arya Yuda</h1>
-</div>
-<div>
-  <h2>Student</h2>
+  <h3>Student</h3>
 </div>
 
 
